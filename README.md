@@ -1,6 +1,6 @@
 # mod_https_time
 
-Inspired by http://phk.freebsd.dk/time/20151129.html
+Inspired by https://web.archive.org/web/20190322171747/http://phk.freebsd.dk/time/20151129.html
 
 ## Build:
 apxs -i -a -c mod_https_time.c
